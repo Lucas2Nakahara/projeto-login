@@ -39,5 +39,9 @@
         float: right;
         width: 50%;
     }
+
+    div.campo > input {
+        width: calc(100% - 29px);
+    }
 }
 
